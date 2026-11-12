@@ -1,4 +1,4 @@
-# R-KGRL
+# ReSem
 
 Dataset available at: just download and use the dataset from "Google drive" data folder to local repository.
 https://drive.google.com/drive/folders/1Glu03cg9zn1gpmrfpgxe0ZZ26GWQjSxR?usp=sharing
